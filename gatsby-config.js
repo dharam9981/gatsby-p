@@ -8,7 +8,7 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title:'TavishInfo',
-    author:'Tvisha'
+    author:'Dharam'
   },
   plugins: [
     'gatsby-plugin-sass'
